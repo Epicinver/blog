@@ -1,6 +1,6 @@
 ---
 title: "my first ddos"
-published: 2025-07-08
+published: 2025-07-10 at 12:21am, UTC +1
 description: 'ddos :('
 image: ''
 tags: [personal, ddos]
