@@ -1,1 +1,1 @@
-my blog :O
+my blog, view [here](https://text2hex.github.io/blog.html)
