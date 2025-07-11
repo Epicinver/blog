@@ -1,7 +1,7 @@
 ---
-title: "Discord has Deleted me..."
-published: 2025-07-10 at 12:21am, UTC +1
-description: 'ddos :('
+title: "Discord has Deleted me"
+published: 2025-07-11
+description: 'im disabled'
 image: ''
 tags: [personal]
 category = "personal'
