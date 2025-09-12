@@ -21,9 +21,9 @@ discord had images and media of my dead mother and they are now permanently dele
 
 I don't know what to do
 
-it was for a maleare demo
+it was for a malware demo
 
-if anyone knows where to get a therapist or wants to help I'll add a fundraiser o. my website or smth
+if anyone knows where to get a therapist or wants to help I'll add a fundraiser or my website or smth
 
 please help me
 
