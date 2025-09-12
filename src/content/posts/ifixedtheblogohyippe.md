@@ -4,7 +4,7 @@ published: 2025-09-12
 description: 'The deployments didnt work'
 image: ''
 tags: [epik]
-category: "github'
+category: "github"
 draft: false 
 lang: 'english'
 ---
