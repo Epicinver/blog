@@ -1,13 +1,15 @@
 ---
 title: "Discord has Deleted me"
 published: 2025-07-11
-description: 'im disabled'
-image: ''
+description: "im disabled"
+image: ""
 tags: [personal]
-category = "personal'
-draft: false 
-lang: 'english'
+category: "personal"
+draft: false
+lang: "english"
 ---
+
+
 hiya! im arran, i do python scripting, lua scripting, i'm just a nerd
 support me:
 follow me: x.com/itsbuttryt
